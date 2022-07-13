@@ -1,5 +1,7 @@
-package one
+package main
 
-func main{
+import "fmt"
 
+func main() {
+	fmt.Pintln("Hello")
 }
